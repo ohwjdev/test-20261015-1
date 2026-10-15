@@ -105,7 +105,7 @@
                <scoreDef xml:id="scoreDef-1">
                   <staffGrp xml:id="staffGrp-1">
                      <staffDef xml:id="staffDef-1" n="1" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
-                        <label xml:id="label-1">Singstimme. (Bariton oder</label>
+                        <label xml:id="label-1">Singstimme.</label>
                      </staffDef>
                      <staffGrp xml:id="staffGrp-2" symbol="brace" bar.thru="true">
                         <instrDef xml:id="instrDef-1"/>
