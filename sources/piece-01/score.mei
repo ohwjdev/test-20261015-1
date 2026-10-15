@@ -108,6 +108,7 @@
                         <label xml:id="label-1">Singstimme.</label>
                      </staffDef>
                      <staffGrp xml:id="staffGrp-2" symbol="brace" bar.thru="true">
+                        <label xml:id="label-2">Klavier.</label>
                         <instrDef xml:id="instrDef-1"/>
                         <staffDef xml:id="staffDef-2" n="2" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4"/>
                         <staffDef xml:id="staffDef-3" n="3" lines="5" clef.shape="F" clef.line="4" meter.count="4" meter.unit="4"/>
